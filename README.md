@@ -64,7 +64,7 @@
   <a href="mailto:xen2992on@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=red&labelColor=0d1117"/>
   </a>
-  <a href="https://leetcode.com/u/ankush2992">
+  <a href="https://www.netflix.com/in/">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=yellow&labelColor=0d1117"/>
   </a>
 </p>
