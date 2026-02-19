@@ -6,9 +6,7 @@
   <a href="https://linkedin.com/in/ankush2992">
     <img src="https://img.shields.io/badge/LinkedIn-Ankush_Kumar-0A66C2?style=for-the-badge&logo=linkedin">
   </a>
-  <a href="https://kiitian.me">
-    <img src="https://img.shields.io/badge/Portfolio-kiitian.me-000000?style=for-the-badge&logo=vercel">
-  </a>
+  
   <a href="mailto:xen2992on@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail">
   </a>
@@ -153,7 +151,7 @@ Open to collaborating on:
 
 LinkedIn: https://linkedin.com/in/ankush2992  
 Email: xen2992on@gmail.com  
-Portfolio: https://kiitian.me
+Portfolio: https://ankush2992.me
 
 ---
 
